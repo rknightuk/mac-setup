@@ -23,6 +23,7 @@
 - [ColorSnapper](http://colorsnapper.com/)
 - [Textexpander](http://smilesoftware.com/TextExpander/)
 - [Caffiene](http://lightheadsw.com/caffeine/)
+- [GitHub for Mac](https://mac.github.com/)
 
 ## Services and plugins
 

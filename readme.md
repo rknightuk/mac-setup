@@ -47,6 +47,9 @@
 - [wget](http://www.gnu.org/s/wget/)
 - [Vagrant](https://www.vagrantup.com/)
 - [rbenv](https://gorails.com/setup/osx/10.9-mavericks)
+- [Mcrypt](http://jacurtis.com/php-development/easily-install-mcrypt-php-mavericks-yosemite/)
+- [Libtool](http://www.gnu.org/software/libtool/)
+    - `brew install libtool --universal`
 
 ## Fonts
 

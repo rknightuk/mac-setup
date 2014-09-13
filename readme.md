@@ -11,6 +11,8 @@
 - [Virtualbox](https://www.virtualbox.org/)
 - [iWork Suite](https://www.apple.com/creativity-apps/mac/)
 - [Office for Mac 2011](http://www.microsoft.com/mac)
+- [Clear for Mac](http://realmacsoftware.com/clear/)
+- [OmniDiskSweeper](http://www.omnigroup.com/more)
 
 ## Utilities
 
@@ -50,6 +52,7 @@
 - [Mcrypt](http://jacurtis.com/php-development/easily-install-mcrypt-php-mavericks-yosemite/)
 - [Libtool](http://www.gnu.org/software/libtool/)
     - `brew install libtool --universal`
+- [vtop](http://parall.ax/vtop)
 
 ## Fonts
 

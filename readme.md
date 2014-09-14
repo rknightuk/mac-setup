@@ -56,6 +56,7 @@
 - [Libtool](http://www.gnu.org/software/libtool/)
     - `brew install libtool --universal`
 - [vtop](http://parall.ax/vtop)
+- [isup](https://github.com/sindresorhus/is-up)
 
 ## Fonts
 

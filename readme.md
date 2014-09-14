@@ -13,6 +13,8 @@
 - [Office for Mac 2011](http://www.microsoft.com/mac)
 - [Clear for Mac](http://realmacsoftware.com/clear/)
 - [OmniDiskSweeper](http://www.omnigroup.com/more)
+- [GitHub for Mac](https://mac.github.com/)
+- [Pixelmator](https://itunes.apple.com/gb/app/pixelmator/id407963104?mt=12&uo=4)
 
 ## Utilities
 
@@ -23,7 +25,7 @@
 - [ColorSnapper](http://colorsnapper.com/)
 - [Textexpander](http://smilesoftware.com/TextExpander/)
 - [Caffiene](http://lightheadsw.com/caffeine/)
-- [GitHub for Mac](https://mac.github.com/)
+- [The Unarchiver](https://itunes.apple.com/gb/app/the-unarchiver/id425424353?mt=12&uo=4)
 
 ## Services and plugins
 

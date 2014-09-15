@@ -57,6 +57,8 @@
     - `brew install libtool --universal`
 - [vtop](http://parall.ax/vtop)
 - [isup](https://github.com/sindresorhus/is-up)
+- [Jekyll](http://jekyllrb.com/docs/installation/)
+    + [Jekyll time-ago](https://github.com/markets/jekyll-timeago)
 
 ## Fonts
 

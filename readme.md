@@ -26,6 +26,7 @@
 - [Textexpander](http://smilesoftware.com/TextExpander/)
 - [Caffiene](http://lightheadsw.com/caffeine/)
 - [The Unarchiver](https://itunes.apple.com/gb/app/the-unarchiver/id425424353?mt=12&uo=4)
+- [ControlPlane](http://www.controlplaneapp.com/about/)
 
 ## Services and plugins
 
@@ -57,9 +58,14 @@
     - `brew install libtool --universal`
 - [vtop](http://parall.ax/vtop)
 - [isup](https://github.com/sindresorhus/is-up)
+- [sshrc](https://github.com/Russell91/sshrc)
 - [Jekyll](http://jekyllrb.com/docs/installation/)
     + [Jekyll time-ago](https://github.com/markets/jekyll-timeago)
 
 ## Fonts
 
 - [Source Code Pro](http://www.adobe.com/cfusion/store/html/index.cfm?event=displayFontPackage&code=1960)
+
+## Misc
+
+- `touch ~/.hushlogin` - Hide login message SSH to Ubuntu

@@ -15,6 +15,7 @@
 - [OmniDiskSweeper](http://www.omnigroup.com/more)
 - [GitHub for Mac](https://mac.github.com/)
 - [Pixelmator](https://itunes.apple.com/gb/app/pixelmator/id407963104?mt=12&uo=4)
+- [Licecap](http://www.cockos.com/licecap/)
 
 ## Utilities
 

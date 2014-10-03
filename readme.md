@@ -2,6 +2,7 @@
 
 - [Dropbox](https://www.dropbox.com/)
 - [Chrome](https://www.google.com/chrome/)
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - [1Password](https://agilebits.com/onepassword)
 - [iWork Suite](https://www.apple.com/creativity-apps/mac/)
 - [Office for Mac 2011](http://www.microsoft.com/mac)
@@ -28,6 +29,8 @@
     + Capture an area of your screen and save it directly to .gif format.
 - [Deliver Status Dashboard Widget](http://junecloud.com/software/mac/delivery-status.html)
     + Track deliveries. Syncs with iOS.
+- [Paintbrush](http://paintbrush.sourceforge.net/downloads/)
+    + Paint but for OS X
 
 ## Utilities
 
@@ -99,6 +102,9 @@ Add support for other file types in OS X quicklook
     + Static site generator
     + [Jekyll time-ago](https://github.com/markets/jekyll-timeago)
         * Show how long ago a blog post was (e.g. 1 year ago)
+- [Hacker/Designer News](https://github.com/mtharrison/hackernews)
+    + CLI for viewing Hacker and Designer news
+- [Pebble SDK](https://developer.getpebble.com/sdk/)
 
 ## Fonts
 

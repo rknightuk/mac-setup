@@ -105,6 +105,8 @@ Add support for other file types in OS X quicklook
 - [Hacker/Designer News](https://github.com/mtharrison/hackernews)
     + CLI for viewing Hacker and Designer news
 - [Pebble SDK](https://developer.getpebble.com/sdk/)
+    + [Freetype](http://www.freetype.org/ttfautohint/osx.html)
+- [Ngrok](https://ngrok.com/)
 
 ## Fonts
 

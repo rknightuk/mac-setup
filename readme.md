@@ -13,6 +13,7 @@
     + Replacement for Terminal.
 - [Sublime Text](http://www.sublimetext.com/)
     + My editor of choice for both coding and writing. See [https://github.com/rmlewisuk/sublime-settings](https://github.com/rmlewisuk/sublime-settings/blob/master/User/Package%20Control.sublime-settings) for installed plugins
+- [PHPStorm](https://www.jetbrains.com/phpstorm/download/)
 - [Marked](http://marked2app.com/)
     + Markdown preview application with export to multiple formats.
 - [Virtualbox](https://www.virtualbox.org/)
@@ -50,6 +51,8 @@
     + Keep your Mac from going to sleep.
 - [The Unarchiver](https://itunes.apple.com/gb/app/the-unarchiver/id425424353?mt=12&uo=4)
     + Replacement for archive utility.
+- [Bartender](http://www.macbartender.com/)
+    + Manage menu bar applications
 
 ## Services and plugins
 

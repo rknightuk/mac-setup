@@ -32,6 +32,8 @@
     + Track deliveries. Syncs with iOS.
 - [Paintbrush](http://paintbrush.sourceforge.net/downloads/)
     + Paint but for OS X
+- [Delicious Library](http://delicious-monster.com/)
+    + App for cataloguing games
 
 ## Utilities
 

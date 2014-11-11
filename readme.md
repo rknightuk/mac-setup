@@ -34,6 +34,8 @@
     + Paint but for OS X
 - [Delicious Library](http://delicious-monster.com/)
     + App for cataloguing games
+- [Shout IRC](https://github.com/erming/shout)
+    + Node based IRC client for the few times I want to use IRC.
 
 ## Utilities
 

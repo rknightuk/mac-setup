@@ -12,7 +12,7 @@
 - [iTerm](http://iterm.sourceforge.net/)
     + Replacement for Terminal.
 - [Sublime Text](http://www.sublimetext.com/)
-    + My editor of choice for both coding and writing. See [https://github.com/rmlewisuk/sublime-settings](https://github.com/rmlewisuk/sublime-settings/blob/master/User/Package%20Control.sublime-settings) for installed plugins
+    + See [https://github.com/rmlewisuk/sublime-settings](https://github.com/rmlewisuk/sublime-settings/blob/master/User/Package%20Control.sublime-settings) for installed plugins
 - [PHPStorm](https://www.jetbrains.com/phpstorm/download/)
 - [Marked](http://marked2app.com/)
     + Markdown preview application with export to multiple formats.
@@ -26,8 +26,6 @@
     + Installed for those difficult merge conflicts.
 - [Pixelmator](https://itunes.apple.com/gb/app/pixelmator/id407963104?mt=12&uo=4)
     + Replacement for Photoshop.
-- [Licecap](http://www.cockos.com/licecap/)
-    + Capture an area of your screen and save it directly to .gif format.
 - [Deliver Status Dashboard Widget](http://junecloud.com/software/mac/delivery-status.html)
     + Track deliveries. Syncs with iOS.
 - [Paintbrush](http://paintbrush.sourceforge.net/downloads/)
@@ -36,6 +34,8 @@
     + App for cataloguing games
 - [Shout IRC](https://github.com/erming/shout)
     + Node based IRC client for the few times I want to use IRC.
+- [Sequel Pro](http://www.sequelpro.com/)
+- [Goofy for Facebook Messenger](http://www.goofyapp.com/)
 
 ## Utilities
 

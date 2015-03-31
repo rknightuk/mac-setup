@@ -114,6 +114,7 @@ Add support for other file types in OS X quicklook
 - [Pebble SDK](https://developer.getpebble.com/sdk/)
     + [Freetype](http://www.freetype.org/ttfautohint/osx.html)
 - [Ngrok](https://ngrok.com/)
+- [AirMail](http://airmailapp.com/)
 
 ## Fonts
 

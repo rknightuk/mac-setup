@@ -36,6 +36,7 @@
     + Node based IRC client for the few times I want to use IRC.
 - [Sequel Pro](http://www.sequelpro.com/)
 - [Goofy for Facebook Messenger](http://www.goofyapp.com/)
+- [Affiliate](http://www.bytesizeapps.net/)
 
 ## Utilities
 
@@ -70,6 +71,7 @@
     + Convert MS Word documents to PDF (requires Office)
 - PPT to PDF (`workflows/PPT2PDF.workflow`)
     + Convert MS Powerpoint documents to PDF (requires Office)
+- [AirMail](http://airmailapp.com/)
 
 ### Quicklook Plugins
 
@@ -114,7 +116,7 @@ Add support for other file types in OS X quicklook
 - [Pebble SDK](https://developer.getpebble.com/sdk/)
     + [Freetype](http://www.freetype.org/ttfautohint/osx.html)
 - [Ngrok](https://ngrok.com/)
-- [AirMail](http://airmailapp.com/)
+- [flavio/jump](https://github.com/flavio/jump)
 
 ## Fonts
 

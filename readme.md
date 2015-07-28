@@ -13,6 +13,7 @@
     + Replacement for Terminal.
 - [Sublime Text](http://www.sublimetext.com/)
     + See [https://github.com/rmlewisuk/sublime-settings](https://github.com/rmlewisuk/sublime-settings/blob/master/User/Package%20Control.sublime-settings) for installed plugins
+- [Atom](https://atom.io/)
 - [PHPStorm](https://www.jetbrains.com/phpstorm/download/)
 - [Marked](http://marked2app.com/)
     + Markdown preview application with export to multiple formats.
@@ -35,8 +36,8 @@
 - [Shout IRC](https://github.com/erming/shout)
     + Node based IRC client for the few times I want to use IRC.
 - [Sequel Pro](http://www.sequelpro.com/)
-- [Goofy for Facebook Messenger](http://www.goofyapp.com/)
 - [Affiliate](http://www.bytesizeapps.net/)
+- [FB Messenger](https://github.com/marekhrabe/messenger)
 
 ## Utilities
 
@@ -111,12 +112,9 @@ Add support for other file types in OS X quicklook
     + Static site generator
     + [Jekyll time-ago](https://github.com/markets/jekyll-timeago)
         * Show how long ago a blog post was (e.g. 1 year ago)
-- [Hacker/Designer News](https://github.com/mtharrison/hackernews)
-    + CLI for viewing Hacker and Designer news
-- [Pebble SDK](https://developer.getpebble.com/sdk/)
-    + [Freetype](http://www.freetype.org/ttfautohint/osx.html)
 - [Ngrok](https://ngrok.com/)
 - [flavio/jump](https://github.com/flavio/jump)
+- [Can I Use](https://www.npmjs.com/package/caniuse-cmd)
 
 ## Fonts
 

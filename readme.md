@@ -13,7 +13,6 @@
     + Replacement for Terminal.
 - [Sublime Text](http://www.sublimetext.com/)
     + See [https://github.com/rmlewisuk/sublime-settings](https://github.com/rmlewisuk/sublime-settings/blob/master/User/Package%20Control.sublime-settings) for installed plugins
-- [Atom](https://atom.io/)
 - [PHPStorm](https://www.jetbrains.com/phpstorm/download/)
 - [Marked](http://marked2app.com/)
     + Markdown preview application with export to multiple formats.
@@ -59,6 +58,8 @@
     + Replacement for archive utility.
 - [Bartender](http://www.macbartender.com/)
     + Manage menu bar applications
+- [BeardedSpice](https://github.com/beardedspice/beardedspice)
+- [Wifi Password](https://github.com/rauchg/wifi-password/blob/master/Readme.md)
 
 ## Services and plugins
 
@@ -73,6 +74,7 @@
 - PPT to PDF (`workflows/PPT2PDF.workflow`)
     + Convert MS Powerpoint documents to PDF (requires Office)
 - [AirMail](http://airmailapp.com/)
+- [Backblaze](https://secure.backblaze.com/r/01gkf3)
 
 ### Quicklook Plugins
 
@@ -112,9 +114,10 @@ Add support for other file types in OS X quicklook
     + Static site generator
     + [Jekyll time-ago](https://github.com/markets/jekyll-timeago)
         * Show how long ago a blog post was (e.g. 1 year ago)
-- [Ngrok](https://ngrok.com/)
+- [Localtunnel ~ Expose yourself to the world](https://localtunnel.github.io/www/)
 - [flavio/jump](https://github.com/flavio/jump)
 - [Can I Use](https://www.npmjs.com/package/caniuse-cmd)
+- [diff-so-fancy](https://github.com/stevemao/diff-so-fancy)
 
 ## Fonts
 
